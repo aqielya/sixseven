@@ -1,0 +1,5 @@
+print("Whats your name?")
+name = input()
+print("Whats your favourite food?")
+food = input()
+print("Hello",name ,", I heard you love", food)
